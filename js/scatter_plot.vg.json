@@ -4,7 +4,7 @@
   "width": 723,
   "title": "COVID-19 Cases per Country (30 Oct 2020)",
   "data": {
-    "url": "data/country_wise_with_population.csv"
+    "url": "https://raw.githubusercontent.com/mrah45/Data_visualization_2/master/data/country_wise_with_population.csv"
   },
   "mark": "point",
   "transform": [
