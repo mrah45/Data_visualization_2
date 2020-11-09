@@ -15,7 +15,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "data/country_wise_latest.csv"
+          "url": "https://raw.githubusercontent.com/mrah45/Data_visualization_2/master/data/country_wise_latest.csv"
         },
         "key": "Country/Region",
         "fields": ["NewCases"]
