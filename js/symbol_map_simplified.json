@@ -14,7 +14,7 @@
     },
     {
       "data": {
-        "url": "data/country_wise_with_long_lat.csv"
+        "url": "https://raw.githubusercontent.com/mrah45/Data_visualization_2/master/data/country_wise_with_long_lat.csv"
       },
       "projection": { "type": "equirectangular" },
       "mark": { "type": "circle", "tooltip": { "content": "data" } },
